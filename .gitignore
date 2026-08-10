@@ -1,0 +1,13 @@
+# macOS metadata
+.DS_Store
+
+# Stata batch and session logs
+*.log
+*.smcl
+
+# Editor and temporary files
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
